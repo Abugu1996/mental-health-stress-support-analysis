@@ -38,7 +38,7 @@ Key Columns:
 
 1, What is the Stress Management Rate among students?
 
-2. How does Support System Availability affect stress levels?
+2, How does Support System Availability affect stress levels?
 
 3, What is the relationship between Exercise and Support System?
 
