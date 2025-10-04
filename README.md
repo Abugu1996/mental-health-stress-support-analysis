@@ -3,12 +3,5 @@ Analysis of student mental health and stress using Excel. Explores how support s
 
 # Project Objective
 
-The goal of this project is to analyze students’ mental health and stress patterns by exploring relationships between stress scores and various factors such as support systems, exercise habits, academic performance, sleep quality, screen time, and demographics.
-
-The analysis aims to:
-
-. Identify high-risk groups for stress,
-
-. Understand protective factors (like support and exercise),
-
-. Recommend actionable strategies for improving mental well-being.
+The purpose of this project is to analyze mental health stress levels among students and identify the factors influencing them. The project explores how elements like academic performance, support systems, exercise, sleep, and screen time interact to affect stress levels.
+The end goal is to generate actionable insights that can help schools and wellness programs design more effective support strategies.
